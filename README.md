@@ -6,7 +6,7 @@ ICML'20: SIGUA: Forgetting May Make Learning with Noisy Labels More Robust
 This is the code for the paper:
 [SIGUA: Forgetting May Make Learning with Noisy Labels More Robust](http://proceedings.mlr.press/v119/han20c.html)
 
-Presented at [ICML'20]()
+Presented at [ICML'20](https://icml.cc/)
 If you find this code useful in your research then please cite
 ```bash
 @InProceedings{pmlr-v119-han20c,
